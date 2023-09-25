@@ -1,0 +1,27 @@
+.body{
+    background-color: rgb(238, 234, 234);
+    align-items:center;
+}
+h1{
+    font-size: 30px;
+    color:black;
+    background:purple;
+    padding:5px;
+    margin-left: 5px;
+}
+h1:hover{
+    background:plum;
+    color:#fff;
+}
+h2{
+    color:plum;
+}
+p{
+    font-size: 20px;
+
+}
+img{
+    height: 150px;
+    width: 150px;
+    border-radius:10px;
+}
